@@ -1,9 +1,19 @@
 # go-webserver
 
-## Run the server
+## Dependencies
+
+[Go](https://go.dev/doc/install)
+
+## Build app
 Build the executable from the root directory
 ```
 go build .
+```
+
+## Run the executable
+Double click the `go-webserver` file or open with command line
+```
+./go-webserver
 ```
 
 ## Endpoints
